@@ -3,3 +3,4 @@
 - [[LADR] VM에서 쿠버네티스로의 전환](https://github.com/Liberty52/Liberty52/wiki/%5BLADR%5D-VM%EC%97%90%EC%84%9C-%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4%EB%A1%9C%EC%9D%98-%EC%A0%84%ED%99%98)
 - [[LADR] Admin 서비스 삭제](https://github.com/Liberty52/Liberty52/wiki/%5BLADR%5D-Admin-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%82%AD%EC%A0%9C)
 - [[LADR] SpringDoc Open API를 사용한 API 명세 관리](https://github.com/Liberty52/Liberty52/wiki/%5BLADR%5D-SpringDoc-Open-API%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%9C-API-%EB%AA%85%EC%84%B8-%EA%B4%80%EB%A6%AC)
+- [[LADR] ArgoCD를 활용한 CD](https://github.com/Liberty52/Liberty52/wiki/%5BLADR%5D-ArgoCD%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-CD)
